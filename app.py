@@ -88,7 +88,7 @@ body{
         h2{
             text-align: center;
             color: white;
-            font-size: 14px;
+            font-size: 20px;
             font-family: Courier;
         }
     </style>
